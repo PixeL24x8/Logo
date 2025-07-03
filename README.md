@@ -1,4 +1,4 @@
-🎨 Pixel 24×8 — Logo Archive
+🎨 Pixel 24×8 — 
 Welcome to the official Logo ArchivE of Pixel 24×8, a creative-first digital marketing agency working around the clock (literally — 24×8 😉).
 This repository features all the logos we've designed over time — from client projects to personal experiments, from bold branding to minimal masterpieces.
 
